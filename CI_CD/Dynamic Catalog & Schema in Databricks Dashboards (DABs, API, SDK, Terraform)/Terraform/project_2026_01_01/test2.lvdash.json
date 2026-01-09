@@ -1,0 +1,56 @@
+{
+  "datasets": [
+    {
+      "name": "f0c8c8aa",
+      "displayName": "dataset_1",
+      "queryLines": [
+        "SELECT * FROM dash1"
+      ],
+      "catalog": "dev",
+      "schema": "default"
+    },
+    {
+      "name": "e4aeb5be",
+      "displayName": "dataset_2",
+      "queryLines": [
+        "SELECT * FROM dash2"
+      ],
+      "catalog": "dev",
+      "schema": "edl_test"
+    }
+  ],
+  "pages": [
+    {
+      "name": "30e48232",
+      "displayName": "Dash1",
+      "layout": [
+        {
+          "widget": {
+            "name": "d833f556",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "f0c8c8aa",
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "widgetType": "bar",
+              "encodings": {}
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 3,
+            "height": 6
+          }
+        }
+      ],
+      "pageType": "PAGE_TYPE_CANVAS"
+    }
+  ]
+}

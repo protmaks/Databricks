@@ -1,0 +1,7 @@
+environment      = "dev"
+dataset_catalog  = "dev"
+dataset_schema   = "edl_test"
+warehouse_id     = "12345678910111213"
+parent_path      = "/Workspace/Users/youremail@gmail.com"
+workspace_url  = "https://dbc-12345678-123a.cloud.databricks.com/"
+databricks_token = "dose1212345678910111213""
