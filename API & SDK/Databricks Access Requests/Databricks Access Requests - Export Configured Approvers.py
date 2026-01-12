@@ -1,10 +1,12 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC # [Databricks Access Requests: Export Configured Approvers (Destinations) with the API](https://medium.com/@protmaks)
+# MAGIC # Databricks Access Requests: Export Configured Approvers (Destinations) with the API
 # MAGIC
 # MAGIC ---
 # MAGIC
 # MAGIC _author_: **Maksim Pachkouski** - [Databricks MVP | Senior Data Engineer]
+# MAGIC - [file source](https://github.com/protmaks/Databricks/blob/main/API%20%26%20SDK/Databricks%20Access%C2%A0Requests/Databricks%20Access%20Requests%20-%20Export%20Configured%20Approvers.py)
+# MAGIC - [description](https://medium.com/@protmaks/databricks-access-requests-export-configured-approvers-c57f16772c60)
 # MAGIC
 # MAGIC ---
 # MAGIC
