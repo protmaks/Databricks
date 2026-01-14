@@ -5,8 +5,8 @@
 # MAGIC ---
 # MAGIC
 # MAGIC _author_: **Maksim Pachkouski** - [Databricks MVP | Senior Data Engineer]
-# MAGIC - [file source](https://github.com/protmaks/Databricks/)
-# MAGIC - [description](https://medium.com/@protmaks)
+# MAGIC - [file source](https://github.com/protmaks/Databricks/blob/main/API%20%26%20SDK/Databricks%20Access%C2%A0Requests/Set%20Access%20Request%20Approvers%20in%20Databricks%20from%20%20Excel%20via%C2%A0API.py)
+# MAGIC - [description](https://medium.com/@protmaks/set-access-request-approvers-in-databricks-from-excel-via-api-83008cdb6ea9)
 # MAGIC
 # MAGIC ---
 # MAGIC
