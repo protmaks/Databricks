@@ -5,8 +5,8 @@
 # MAGIC ---
 # MAGIC
 # MAGIC _author_: **Maksim Pachkouski** - [Databricks MVP | Senior Data Engineer]
-# MAGIC - [file source](https://github.com/protmaks/)
-# MAGIC - [description](https://medium.com/@protmaks/)
+# MAGIC - [file source](https://github.com/protmaks/Databricks/blob/main/API%20%26%20SDK/Monitoring/API%20monitoring%20of%20All-purpose%20clusters.py)
+# MAGIC - [description](https://medium.com/@protmaks/databricks-cost-optimization-api-monitoring-of-all-purpose-clusters-b7ad7ddd4702)
 # MAGIC
 # MAGIC ---
 # MAGIC
