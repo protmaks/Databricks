@@ -157,10 +157,6 @@ df_jr_jobs = df_jr_jobs.withColumn("team", expr("""
             WHEN
                 job_name like '%(10 min)%'
                     THEN 'team 2'
-            WHEN
-                job_name like 'RA%'
-                or job_name like '%RevenueAssurance%'
-                    THEN 'Revenue Assurance'
             ELSE 'Unknown'
         END
 """))
