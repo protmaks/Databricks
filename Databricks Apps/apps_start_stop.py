@@ -5,7 +5,7 @@
 # MAGIC ---
 # MAGIC
 # MAGIC _author_: **Maksim Pachkouski** - [Databricks MVP | Senior Data Engineer]
-# MAGIC - [file source](https://github.com/protmaks/Databricks/blob/main/)
+# MAGIC - [file source](https://github.com/protmaks/Databricks/blob/main/Databricks%20Apps/apps_start_stop.py)
 # MAGIC - [description](https://medium.com/@protmaks/)
 # MAGIC
 # MAGIC ---
