@@ -6,7 +6,7 @@
 # MAGIC
 # MAGIC _author_: **Maksim Pachkouski** - [Databricks MVP | Senior Data Engineer]
 # MAGIC - [file source](https://github.com/protmaks/Databricks/blob/main/Databricks%20Apps/apps_start_stop.py)
-# MAGIC - [description](https://medium.com/@protmaks/)
+# MAGIC - [description](https://medium.com/@protmaks/cut-databricks-apps-costs-by-76-automate-start-stop-nearly-scale-to-zero-3e8447425ad5)
 # MAGIC
 # MAGIC ---
 # MAGIC
